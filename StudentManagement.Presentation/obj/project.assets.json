@@ -1,0 +1,153 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "StudentManagement.BusinessLogicLayer/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "dependencies": {
+          "StudentManagement.DataAcessLayer": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/StudentManagement.BusinessLogicLayer.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/StudentManagement.BusinessLogicLayer.dll": {}
+        }
+      },
+      "StudentManagement.DataAcessLayer/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "dependencies": {
+          "StudentManagement.Entities": "1.0.0",
+          "StudentManagement.Exceptions": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/StudentManagement.DataAcessLayer.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/StudentManagement.DataAcessLayer.dll": {}
+        }
+      },
+      "StudentManagement.Entities/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "dependencies": {
+          "StudentManagement.Exceptions": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/StudentManagement.Entities.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/StudentManagement.Entities.dll": {}
+        }
+      },
+      "StudentManagement.Exceptions/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/StudentManagement.Exceptions.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/StudentManagement.Exceptions.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "StudentManagement.BusinessLogicLayer/1.0.0": {
+      "type": "project",
+      "path": "../StudentManagement.BusinessLogicLayer/StudentManagement.BusinessLogicLayer.csproj",
+      "msbuildProject": "../StudentManagement.BusinessLogicLayer/StudentManagement.BusinessLogicLayer.csproj"
+    },
+    "StudentManagement.DataAcessLayer/1.0.0": {
+      "type": "project",
+      "path": "../StudentManagement.DataAcessLayer/StudentManagement.DataAcessLayer.csproj",
+      "msbuildProject": "../StudentManagement.DataAcessLayer/StudentManagement.DataAcessLayer.csproj"
+    },
+    "StudentManagement.Entities/1.0.0": {
+      "type": "project",
+      "path": "../StudentManagement.Entities/StudentManagement.Entities.csproj",
+      "msbuildProject": "../StudentManagement.Entities/StudentManagement.Entities.csproj"
+    },
+    "StudentManagement.Exceptions/1.0.0": {
+      "type": "project",
+      "path": "../StudentManagement.Exceptions/StudentManagement.Exceptions.csproj",
+      "msbuildProject": "../StudentManagement.Exceptions/StudentManagement.Exceptions.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.1": [
+      "StudentManagement.BusinessLogicLayer >= 1.0.0",
+      "StudentManagement.Entities >= 1.0.0",
+      "StudentManagement.Exceptions >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\sangt\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\sangt\\source\\repos\\StudentManagement01\\StudentManagement.Presentation\\StudentManagement.Presentation.csproj",
+      "projectName": "StudentManagement.Presentation",
+      "projectPath": "C:\\Users\\sangt\\source\\repos\\StudentManagement01\\StudentManagement.Presentation\\StudentManagement.Presentation.csproj",
+      "packagesPath": "C:\\Users\\sangt\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\sangt\\source\\repos\\StudentManagement01\\StudentManagement.Presentation\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\sangt\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.1"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "projectReferences": {
+            "C:\\Users\\sangt\\source\\repos\\StudentManagement01\\StudentManagement.BusinessLogicLayer\\StudentManagement.BusinessLogicLayer.csproj": {
+              "projectPath": "C:\\Users\\sangt\\source\\repos\\StudentManagement01\\StudentManagement.BusinessLogicLayer\\StudentManagement.BusinessLogicLayer.csproj"
+            },
+            "C:\\Users\\sangt\\source\\repos\\StudentManagement01\\StudentManagement.Entities\\StudentManagement.Entities.csproj": {
+              "projectPath": "C:\\Users\\sangt\\source\\repos\\StudentManagement01\\StudentManagement.Entities\\StudentManagement.Entities.csproj"
+            },
+            "C:\\Users\\sangt\\source\\repos\\StudentManagement01\\StudentManagement.Exceptions\\StudentManagement.Exceptions.csproj": {
+              "projectPath": "C:\\Users\\sangt\\source\\repos\\StudentManagement01\\StudentManagement.Exceptions\\StudentManagement.Exceptions.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.1": {
+        "targetAlias": "netcoreapp3.1",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

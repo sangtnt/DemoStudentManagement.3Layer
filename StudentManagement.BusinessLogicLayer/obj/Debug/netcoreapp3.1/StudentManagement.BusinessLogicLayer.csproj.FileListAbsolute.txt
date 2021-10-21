@@ -1,0 +1,17 @@
+C:\Users\sangt\source\repos\StudentManagement01\StudentManagement.BusinessLogicLayer\bin\Debug\netcoreapp3.1\StudentManagement.BusinessLogicLayer.deps.json
+C:\Users\sangt\source\repos\StudentManagement01\StudentManagement.BusinessLogicLayer\bin\Debug\netcoreapp3.1\StudentManagement.BusinessLogicLayer.dll
+C:\Users\sangt\source\repos\StudentManagement01\StudentManagement.BusinessLogicLayer\bin\Debug\netcoreapp3.1\StudentManagement.BusinessLogicLayer.pdb
+C:\Users\sangt\source\repos\StudentManagement01\StudentManagement.BusinessLogicLayer\bin\Debug\netcoreapp3.1\StudentManagement.DataAcessLayer.dll
+C:\Users\sangt\source\repos\StudentManagement01\StudentManagement.BusinessLogicLayer\bin\Debug\netcoreapp3.1\StudentManagement.Entities.dll
+C:\Users\sangt\source\repos\StudentManagement01\StudentManagement.BusinessLogicLayer\bin\Debug\netcoreapp3.1\StudentManagement.Exceptions.dll
+C:\Users\sangt\source\repos\StudentManagement01\StudentManagement.BusinessLogicLayer\bin\Debug\netcoreapp3.1\StudentManagement.DataAcessLayer.pdb
+C:\Users\sangt\source\repos\StudentManagement01\StudentManagement.BusinessLogicLayer\bin\Debug\netcoreapp3.1\StudentManagement.Entities.pdb
+C:\Users\sangt\source\repos\StudentManagement01\StudentManagement.BusinessLogicLayer\bin\Debug\netcoreapp3.1\StudentManagement.Exceptions.pdb
+C:\Users\sangt\source\repos\StudentManagement01\StudentManagement.BusinessLogicLayer\obj\Debug\netcoreapp3.1\StudentManagement.BusinessLogicLayer.csproj.AssemblyReference.cache
+C:\Users\sangt\source\repos\StudentManagement01\StudentManagement.BusinessLogicLayer\obj\Debug\netcoreapp3.1\StudentManagement.BusinessLogicLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sangt\source\repos\StudentManagement01\StudentManagement.BusinessLogicLayer\obj\Debug\netcoreapp3.1\StudentManagement.BusinessLogicLayer.AssemblyInfoInputs.cache
+C:\Users\sangt\source\repos\StudentManagement01\StudentManagement.BusinessLogicLayer\obj\Debug\netcoreapp3.1\StudentManagement.BusinessLogicLayer.AssemblyInfo.cs
+C:\Users\sangt\source\repos\StudentManagement01\StudentManagement.BusinessLogicLayer\obj\Debug\netcoreapp3.1\StudentManagement.BusinessLogicLayer.csproj.CoreCompileInputs.cache
+C:\Users\sangt\source\repos\StudentManagement01\StudentManagement.BusinessLogicLayer\obj\Debug\netcoreapp3.1\StudentManagement.BusinessLogicLayer.csproj.CopyComplete
+C:\Users\sangt\source\repos\StudentManagement01\StudentManagement.BusinessLogicLayer\obj\Debug\netcoreapp3.1\StudentManagement.BusinessLogicLayer.dll
+C:\Users\sangt\source\repos\StudentManagement01\StudentManagement.BusinessLogicLayer\obj\Debug\netcoreapp3.1\StudentManagement.BusinessLogicLayer.pdb

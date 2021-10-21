@@ -1,0 +1,13 @@
+C:\Users\sangt\source\repos\StudentManagement01\StudentManagement.Entities\bin\Debug\netcoreapp3.1\StudentManagement.Entities.deps.json
+C:\Users\sangt\source\repos\StudentManagement01\StudentManagement.Entities\bin\Debug\netcoreapp3.1\StudentManagement.Entities.dll
+C:\Users\sangt\source\repos\StudentManagement01\StudentManagement.Entities\bin\Debug\netcoreapp3.1\StudentManagement.Entities.pdb
+C:\Users\sangt\source\repos\StudentManagement01\StudentManagement.Entities\bin\Debug\netcoreapp3.1\StudentManagement.Exceptions.dll
+C:\Users\sangt\source\repos\StudentManagement01\StudentManagement.Entities\bin\Debug\netcoreapp3.1\StudentManagement.Exceptions.pdb
+C:\Users\sangt\source\repos\StudentManagement01\StudentManagement.Entities\obj\Debug\netcoreapp3.1\StudentManagement.Entities.csproj.AssemblyReference.cache
+C:\Users\sangt\source\repos\StudentManagement01\StudentManagement.Entities\obj\Debug\netcoreapp3.1\StudentManagement.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sangt\source\repos\StudentManagement01\StudentManagement.Entities\obj\Debug\netcoreapp3.1\StudentManagement.Entities.AssemblyInfoInputs.cache
+C:\Users\sangt\source\repos\StudentManagement01\StudentManagement.Entities\obj\Debug\netcoreapp3.1\StudentManagement.Entities.AssemblyInfo.cs
+C:\Users\sangt\source\repos\StudentManagement01\StudentManagement.Entities\obj\Debug\netcoreapp3.1\StudentManagement.Entities.csproj.CoreCompileInputs.cache
+C:\Users\sangt\source\repos\StudentManagement01\StudentManagement.Entities\obj\Debug\netcoreapp3.1\StudentManagement.Entities.csproj.CopyComplete
+C:\Users\sangt\source\repos\StudentManagement01\StudentManagement.Entities\obj\Debug\netcoreapp3.1\StudentManagement.Entities.dll
+C:\Users\sangt\source\repos\StudentManagement01\StudentManagement.Entities\obj\Debug\netcoreapp3.1\StudentManagement.Entities.pdb

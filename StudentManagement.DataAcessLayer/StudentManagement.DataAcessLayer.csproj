@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\StudentManagement.Entities\StudentManagement.Entities.csproj" />
+    <ProjectReference Include="..\StudentManagement.Exceptions\StudentManagement.Exceptions.csproj" />
+  </ItemGroup>
+
+</Project>

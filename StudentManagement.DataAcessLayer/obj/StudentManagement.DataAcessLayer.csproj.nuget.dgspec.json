@@ -1,0 +1,181 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\sangt\\source\\repos\\StudentManagement01\\StudentManagement.DataAcessLayer\\StudentManagement.DataAcessLayer.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\sangt\\source\\repos\\StudentManagement01\\StudentManagement.DataAcessLayer\\StudentManagement.DataAcessLayer.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\sangt\\source\\repos\\StudentManagement01\\StudentManagement.DataAcessLayer\\StudentManagement.DataAcessLayer.csproj",
+        "projectName": "StudentManagement.DataAcessLayer",
+        "projectPath": "C:\\Users\\sangt\\source\\repos\\StudentManagement01\\StudentManagement.DataAcessLayer\\StudentManagement.DataAcessLayer.csproj",
+        "packagesPath": "C:\\Users\\sangt\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\sangt\\source\\repos\\StudentManagement01\\StudentManagement.DataAcessLayer\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\sangt\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\sangt\\source\\repos\\StudentManagement01\\StudentManagement.Entities\\StudentManagement.Entities.csproj": {
+                "projectPath": "C:\\Users\\sangt\\source\\repos\\StudentManagement01\\StudentManagement.Entities\\StudentManagement.Entities.csproj"
+              },
+              "C:\\Users\\sangt\\source\\repos\\StudentManagement01\\StudentManagement.Exceptions\\StudentManagement.Exceptions.csproj": {
+                "projectPath": "C:\\Users\\sangt\\source\\repos\\StudentManagement01\\StudentManagement.Exceptions\\StudentManagement.Exceptions.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\sangt\\source\\repos\\StudentManagement01\\StudentManagement.Entities\\StudentManagement.Entities.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\sangt\\source\\repos\\StudentManagement01\\StudentManagement.Entities\\StudentManagement.Entities.csproj",
+        "projectName": "StudentManagement.Entities",
+        "projectPath": "C:\\Users\\sangt\\source\\repos\\StudentManagement01\\StudentManagement.Entities\\StudentManagement.Entities.csproj",
+        "packagesPath": "C:\\Users\\sangt\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\sangt\\source\\repos\\StudentManagement01\\StudentManagement.Entities\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\sangt\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\sangt\\source\\repos\\StudentManagement01\\StudentManagement.Exceptions\\StudentManagement.Exceptions.csproj": {
+                "projectPath": "C:\\Users\\sangt\\source\\repos\\StudentManagement01\\StudentManagement.Exceptions\\StudentManagement.Exceptions.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\sangt\\source\\repos\\StudentManagement01\\StudentManagement.Exceptions\\StudentManagement.Exceptions.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\sangt\\source\\repos\\StudentManagement01\\StudentManagement.Exceptions\\StudentManagement.Exceptions.csproj",
+        "projectName": "StudentManagement.Exceptions",
+        "projectPath": "C:\\Users\\sangt\\source\\repos\\StudentManagement01\\StudentManagement.Exceptions\\StudentManagement.Exceptions.csproj",
+        "packagesPath": "C:\\Users\\sangt\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\sangt\\source\\repos\\StudentManagement01\\StudentManagement.Exceptions\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\sangt\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "StudentManagement.Presentation/1.0.0": {
+        "dependencies": {
+          "StudentManagement.BusinessLogicLayer": "1.0.0",
+          "StudentManagement.Entities": "1.0.0",
+          "StudentManagement.Exceptions": "1.0.0"
+        },
+        "runtime": {
+          "StudentManagement.Presentation.dll": {}
+        }
+      },
+      "StudentManagement.BusinessLogicLayer/1.0.0": {
+        "dependencies": {
+          "StudentManagement.DataAcessLayer": "1.0.0"
+        },
+        "runtime": {
+          "StudentManagement.BusinessLogicLayer.dll": {}
+        }
+      },
+      "StudentManagement.DataAcessLayer/1.0.0": {
+        "dependencies": {
+          "StudentManagement.Entities": "1.0.0",
+          "StudentManagement.Exceptions": "1.0.0"
+        },
+        "runtime": {
+          "StudentManagement.DataAcessLayer.dll": {}
+        }
+      },
+      "StudentManagement.Entities/1.0.0": {
+        "dependencies": {
+          "StudentManagement.Exceptions": "1.0.0"
+        },
+        "runtime": {
+          "StudentManagement.Entities.dll": {}
+        }
+      },
+      "StudentManagement.Exceptions/1.0.0": {
+        "runtime": {
+          "StudentManagement.Exceptions.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "StudentManagement.Presentation/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "StudentManagement.BusinessLogicLayer/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "StudentManagement.DataAcessLayer/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "StudentManagement.Entities/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "StudentManagement.Exceptions/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

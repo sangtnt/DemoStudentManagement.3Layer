@@ -1,0 +1,10 @@
+C:\Users\sangt\source\repos\StudentManagement01\StudentManagement.Exceptions\bin\Debug\netcoreapp3.1\StudentManagement.Exceptions.deps.json
+C:\Users\sangt\source\repos\StudentManagement01\StudentManagement.Exceptions\bin\Debug\netcoreapp3.1\StudentManagement.Exceptions.dll
+C:\Users\sangt\source\repos\StudentManagement01\StudentManagement.Exceptions\bin\Debug\netcoreapp3.1\StudentManagement.Exceptions.pdb
+C:\Users\sangt\source\repos\StudentManagement01\StudentManagement.Exceptions\obj\Debug\netcoreapp3.1\StudentManagement.Exceptions.csproj.AssemblyReference.cache
+C:\Users\sangt\source\repos\StudentManagement01\StudentManagement.Exceptions\obj\Debug\netcoreapp3.1\StudentManagement.Exceptions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sangt\source\repos\StudentManagement01\StudentManagement.Exceptions\obj\Debug\netcoreapp3.1\StudentManagement.Exceptions.AssemblyInfoInputs.cache
+C:\Users\sangt\source\repos\StudentManagement01\StudentManagement.Exceptions\obj\Debug\netcoreapp3.1\StudentManagement.Exceptions.AssemblyInfo.cs
+C:\Users\sangt\source\repos\StudentManagement01\StudentManagement.Exceptions\obj\Debug\netcoreapp3.1\StudentManagement.Exceptions.csproj.CoreCompileInputs.cache
+C:\Users\sangt\source\repos\StudentManagement01\StudentManagement.Exceptions\obj\Debug\netcoreapp3.1\StudentManagement.Exceptions.dll
+C:\Users\sangt\source\repos\StudentManagement01\StudentManagement.Exceptions\obj\Debug\netcoreapp3.1\StudentManagement.Exceptions.pdb
